@@ -3,6 +3,5 @@
 
 樣板網站:http://www.free-css.com/template-categories/bootstrap
 
-參考:
-- https://www.free-css.com/free-css-templates/page248/nickie
+參考樣板:
 - https://www.free-css.com/free-css-templates/page244/victory
