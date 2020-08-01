@@ -1,0 +1,52 @@
+// 上方導覽列
+Toby
+主頁 關於我 最近活動 聯絡我
+
+// 導覽圖
+我是...  // 大字
+在這裡你可以看到我的不同身分
+
+// .breakfast
+工程師
+
+RWD
+RWD網頁製作
+網址:https://dent24.github.io/HC3/
+
+JS 套件
+AOS Slick
+網址:https://dent24.github.io/HC5/
+
+Bootstrap
+Bootstrap
+網址:https://dent24.github.io/HC4/
+
+// .lunch
+設計師
+
+CIS
+虛擬品牌CIS製作
+為虛擬品牌:柴一咖，設計完整的CIS系統
+
+包裝
+義美-錫蘭紅茶
+重新設計義美錫蘭紅茶外包裝
+
+海報
+FILA
+設計FILA服飾海報以及時尚雜誌封面
+
+// .dinner
+表演者
+
+公演
+年度劇團公演
+劇團一年一度的大型表演
+
+個人
+個人街頭表演
+大學時期周末進行街頭表演
+
+社團
+社團博覽會表演
+一年四度表演之一
